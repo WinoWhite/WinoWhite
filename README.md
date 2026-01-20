@@ -1,7 +1,7 @@
 <div align="center">
 
-Frontend Developer · React / TypeScript / HTML / CSS / JavaScript<br>
-Backend Developer · Python / Lua
+Frontend Developer︲React / TypeScript / HTML / CSS / JavaScript<br>
+Backend Developer︲Python / Lua
 
 ---
 
