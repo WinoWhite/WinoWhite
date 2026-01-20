@@ -1,5 +1,7 @@
-Frontend Developer · React / TypeScript / HTML / CSS / JavaScript  
-Backend Developer · Python / Lua
+<p align="center">
+  Frontend Developer · React / TypeScript / HTML / CSS / JavaScript<br>
+  Backend Developer · Python / Lua
+</p>
 
 ---
 
