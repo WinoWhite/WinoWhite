@@ -1,7 +1,7 @@
 <div align="center">
 
-Frontend Developer︲VUE / HTML / CSS / JavaScript<br>
-Backend Developer︲Python / Lua
+Frontend Developer︲React / Vue / Html / Css,Scss / JavaScript<br>
+Backend Developer︲Python / Lua / Node.js
 
 ---
 
