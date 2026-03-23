@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 👋 About
-**Full-Stack Developer.** 
+**Full-Stack Developer.  ** 
 For frontend, I design interfaces in Figma and build them using Vue.js and SCSS.
 
 ## 🔧 Skills
