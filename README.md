@@ -1,6 +1,7 @@
 <div align="center">
 
-Full-Stack Developer specializing in frontend development with Vue.js and SCSS, including UI design in Figma.
+Full-Stack Developer.  
+For frontend, I design interfaces in Figma and build them using Vue.js and SCSS.
 
 
 Frontend Developer︲React / Vue / JavaScript / HTML / CSS (SCSS)<br>
