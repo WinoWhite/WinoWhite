@@ -1,7 +1,12 @@
 <div align="center">
 
-Frontend Developer︲React / Vue / Html / Css,Scss / JavaScript<br>
-Backend Developer︲Python / Lua / Node.js
+Full-Stack Developer focused on building modern web applications.  
+I design user interfaces in Figma and implement them using Vue.js and SCSS.
+
+<br><br>
+
+Frontend Developer︲React / Vue / JavaScript / HTML / CSS (SCSS)<br>
+Backend Developer︲Node.js / Python
 
 ---
 <!-- Frontend -->
