@@ -1,6 +1,6 @@
 <div align="center">
 
-Frontend Developer︲React / TypeScript / HTML / CSS / JavaScript<br>
+Frontend Developer︲VUE / HTML / CSS / JavaScript<br>
 Backend Developer︲Python / Lua
 
 ---
