@@ -2,9 +2,7 @@
 
 Full-Stack Developer focused on building modern web applications.  
 I design user interfaces in Figma and implement them using Vue.js and SCSS.
-
 <br>
-
 Frontend Developer︲React / Vue / JavaScript / HTML / CSS (SCSS)<br>
 Backend Developer︲Node.js / Python
 
