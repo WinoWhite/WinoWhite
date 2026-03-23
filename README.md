@@ -1,11 +1,12 @@
 <div align="center">
 
-Full-Stack Developer.  
+## 👋 About
+**Full-Stack Developer.** 
 For frontend, I design interfaces in Figma and build them using Vue.js and SCSS.
 
-
-Frontend Developer︲React / Vue / JavaScript / HTML / CSS (SCSS)<br>
-Backend Developer︲Node.js / Python
+## 🔧 Skills
+**Frontend Developer**︲React / Vue / JavaScript / HTML / CSS (SCSS)<br>
+**Backend Developer**︲Node.js / Python
 
 ---
 <!-- Frontend -->
