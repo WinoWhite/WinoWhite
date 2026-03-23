@@ -6,7 +6,7 @@ For frontend, I design interfaces in Figma and build them using Vue.js and SCSS.
 
 ## 🔧 Skills
 **Frontend Developer**︲React / Vue / JavaScript / HTML / CSS (SCSS)<br>
-**Backend Developer**︲Node.js / Python
+**Backend Developer**︲Node.js / Python /Lua
 
 ---
 <!-- Frontend -->
