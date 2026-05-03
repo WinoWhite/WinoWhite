@@ -18,21 +18,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=WinoWhite&show_icons=true&bg_color=0a0a0f&border_color=a855f7&icon_color=a855f7&title_color=a855f7&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinoWhite&layout=compact&bg_color=0a0a0f&border_color=a855f7&title_color=a855f7&text_color=c9d1d9" />
-
-</div>
-
----
-
-<div align="center">
-
-`> open to collab` &nbsp;·&nbsp; `> always building` &nbsp;·&nbsp; `> no half measures`
-
-</div>
