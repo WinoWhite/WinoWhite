@@ -6,20 +6,6 @@
 
 </div>
 
-<br/>
-
-```js
-const WinoWhite = {
-  role:     "Full-Stack Developer",
-  design:   "Figma → pixel-perfect interfaces",
-  frontend: ["Vue.js", "React", "JavaScript", "HTML5", "SCSS"],
-  backend:  ["Node.js", "Python", "Lua"],
-  coffee:    true,
-};
-```
-
-<br/>
-
 <div align="center">
 
 ### Frontend
@@ -27,15 +13,3 @@ const WinoWhite = {
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,python,lua&theme=dark" />
-
-<br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=WinoWhite&show_icons=true&hide_title=true&bg_color=0d0d0d&border_color=a855f7&icon_color=a855f7&text_color=c9d1d9&hide_border=false" />
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinoWhite&layout=compact&hide_title=true&bg_color=0d0d0d&border_color=a855f7&title_color=a855f7&text_color=c9d1d9" />
-
-<br/><br/>
-
-`open to collab` &nbsp;·&nbsp; `always building` &nbsp;·&nbsp; `no half measures`
-
-</div>
