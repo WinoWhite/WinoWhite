@@ -6,27 +6,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## ⚡ `whoami`
-
-</div>
-
-```js
-const WinoWhite = {
-  role:      "Full-Stack Developer",
-  design:    "Figma → pixel-perfect interfaces",
-  frontend:  ["Vue.js", "React", "JavaScript", "HTML5", "CSS / SCSS"],
-  backend:   ["Node.js", "Python", "Lua"],
-  currently: "Building something that doesn't exist yet.",
-  coffee:    true,
-};
-```
-
----
-
 <div align="center">
 
 ## 🔧 Tech Stack
