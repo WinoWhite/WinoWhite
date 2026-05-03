@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## 🔧 Tech Stack
+## 🔧 Skills
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,scss,figma&theme=dark" />
