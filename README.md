@@ -15,7 +15,7 @@ For frontend, I design interfaces in Figma and build them using Vue.js and SCSS.
 <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,scss,figma&theme=dark" />
 <br/>
 **Backend Developer:**
- 
+ <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,python,lua&theme=dark" />
 </div>
  
