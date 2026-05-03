@@ -16,8 +16,6 @@
 
 <br/>
 
----
-
 <h2>🚀 Projects</h2>
 
 <table>
