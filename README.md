@@ -8,8 +8,7 @@
 
 <b>Frontend Developer:</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,scss,figma&theme=dark" />
-
-<br/><br/>
+<br/>
 
 <b>Backend Developer:</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,python,lua&theme=dark" />
